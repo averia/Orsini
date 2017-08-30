@@ -14,5 +14,6 @@ Videos David Ghosting
 Arduino sketches
 
 - [MidiVox](https://github.com/averia/Orsini/tree/master/software/MidiVox_Orsini)
+- [ORSINI_ARPEGGIO](https://github.com/averia/Orsini/tree/master/software/ORSINI_ARPEGGIO)
 
 
