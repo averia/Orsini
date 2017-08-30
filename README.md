@@ -9,7 +9,7 @@ The six potentiometers have a minijack switch that can be controlled by CV.
 Videos David Ghosting
 - [Video 1](https://www.youtube.com/watch?v=QPaGWW7q3iw)
 - [Video 2](https://www.youtube.com/watch?v=FKTxtArhNdU)
-- [Video 2] https://www.youtube.com/watch?v=SaAd6OQ5f1s
+- [Video 2](https://www.youtube.com/watch?v=SaAd6OQ5f1s)
 
 Arduino sketches
 
